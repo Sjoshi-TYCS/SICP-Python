@@ -1,7 +1,7 @@
 # SICP-Python
 Snippets, Notes, and Stack Overflow references, related to the material in the book 'Structure and Implementation of Computer Programs in Python'
 
-Reference to the book - http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/ and related course - http://www-inst.eecs.berkeley.edu/~cs61a/sp12/
+Reference to the book - [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) and related course - [Standford CS61A computer science course](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/)
 
 The notes are chapter wise and contain: 
 
