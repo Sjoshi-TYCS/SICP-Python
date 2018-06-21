@@ -1,5 +1,5 @@
 # SICP-Python
-Snippets, Notes, and Stack Overflow references, related to the material in the book 'Structure and Implementation of Computer Programs in Python'
+Snippets, Notes, and Stack Overflow references, related to the material in the book 'Structure and Implementation of Computer Programs in Python'. This book is derived from the classic textbook Structure and Interpretation of Computer Programs by Abelson, Sussman, and Sussman. John Denero originally modified if for Python for the Fall 2011 semester. It is licensed under the Creative Commons Attribution-ShareAlike 3.0 license.
 
 Reference to the book - [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) and related course - [Standford CS61A computer science course](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/)
 
